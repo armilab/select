@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "b56b3b80-9577-11e7-9613-8d59c67c3042",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "33953372-8D4A-48AB-B1A9-47465EA42F5E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 340,
+    "width": 272,
+    "x": 518,
+    "y": 267
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,12 +42,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "33953372-8D4A-48AB-B1A9-47465EA42F5E"
+      "class": "text",
+      "id": "748D0D6C-B483-456A-ACF4-DA7FF1356FF0"
     }
   ],
-  "name": "Page 1",
+  "name": "Apple Watch 38mm",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,7 +61,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

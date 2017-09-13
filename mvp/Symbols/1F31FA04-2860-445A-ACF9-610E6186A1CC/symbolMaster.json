@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 297,
+  "changeIdentifier": 298,
   "do_objectID": "1F31FA04-2860-445A-ACF9-610E6186A1CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "9C278828-2992-4209-A96D-A27DB20447C1"
     }
   ],
-  "name": "button-success",
+  "name": "button-success-normal",
   "nameIsFixed": true,
   "originalObjectID": "1F31FA04-2860-445A-ACF9-610E6186A1CC",
   "resizesContent": false,

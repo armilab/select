@@ -1,0 +1,69 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "92F313DC-E0C6-4CBB-88E8-F3C997708A44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 311.5,
+    "width": 311.5,
+    "x": 5,
+    "y": 5
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/33a8a2389980c146047a754c1aebb31a933f5731",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Selectboard Standard Filmface Face (MAIN)",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "originalObjectID": "92F313DC-E0C6-4CBB-88E8-F3C997708A44",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 311.5,
+            "enabled": 1,
+            "modelID": "constraint_c2232bb1-9b95-4240-b23f-4ee13536030c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 311.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_199101c3-f37e-46b7-9c5b-be3a051bc8ee",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

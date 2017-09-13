@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "BCC6438D-D88B-4B57-8B68-CD0E95C7EC07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 625,
+    "x": -1842,
+    "y": 84
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BA07CC6A-0E9F-4E78-BB62-B0BA0BE17AEE"
+    },
+    {
+      "class": "group",
+      "id": "A91FC4BC-C1AB-44B0-9F68-BF9240F56959"
+    },
+    {
+      "class": "group",
+      "id": "4CA15255-40A9-44FD-B507-416D170278F0"
+    },
+    {
+      "class": "group",
+      "id": "FFC2FA80-EB7F-4646-B350-E4C99866CAB5"
+    },
+    {
+      "class": "group",
+      "id": "6128F6E5-5EE7-4CA8-8108-B86CCC1AD5EB"
+    },
+    {
+      "class": "group",
+      "id": "38C35115-7CDA-4E33-A041-1E039ED8F944"
+    }
+  ],
+  "name": "Outline buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

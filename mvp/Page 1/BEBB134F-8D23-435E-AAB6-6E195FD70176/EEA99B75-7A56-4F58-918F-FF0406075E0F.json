@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EEA99B75-7A56-4F58-918F-FF0406075E0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 240,
+    "x": 27,
+    "y": 600
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1701,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1644,
+  "name": "product_quality",
+  "nameIsFixed": false,
+  "originalObjectID": "22BE3094-C173-4AB0-A901-731756D6AA42",
+  "overrides": {
+    "446A13B7-4721-455F-BD19-2B8C8A02E051": {
+      "1636B22A-461F-4241-A739-F9B9B4FCDD5E": {
+        "680477F4-E0CC-468B-8F2A-1D6DA57B6039": "$1 ~$2",
+        "B152ED1D-8A6C-44EF-B44B-E8EE050234F1": "A/B"
+      },
+      "4EBBA792-3383-4A91-B674-3248F24426B8": "Pencil Cedar"
+    },
+    "566B19F6-EFD7-4A69-B766-24CCC25B8397": {
+      "symbolID": "7EB9383F-93B5-4D4D-8245-B4C52561FADA"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BE2BB527-62BC-43B0-A862-D2CE7E594AC8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

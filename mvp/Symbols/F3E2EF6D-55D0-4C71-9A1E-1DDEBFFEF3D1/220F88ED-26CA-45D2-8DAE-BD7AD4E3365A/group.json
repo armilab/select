@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "220F88ED-26CA-45D2-8DAE-BD7AD4E3365A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 172,
+    "x": 460,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "28D12076-2C0E-4417-95B7-FD72F9CA3F25"
+    },
+    {
+      "class": "text",
+      "id": "CACBA906-6A19-4CCD-B222-0DCB7031F517"
+    }
+  ],
+  "name": "delivery",
+  "nameIsFixed": true,
+  "originalObjectID": "220F88ED-26CA-45D2-8DAE-BD7AD4E3365A",
+  "resizingConstraint": 62,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

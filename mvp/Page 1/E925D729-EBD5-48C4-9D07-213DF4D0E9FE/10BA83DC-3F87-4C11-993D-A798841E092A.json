@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "10BA83DC-3F87-4C11-993D-A798841E092A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 450,
+    "width": 768,
+    "x": 0,
+    "y": 509
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "row-category_quality",
+  "nameIsFixed": true,
+  "originalObjectID": "28874424-8FB9-4A42-AB83-0391F70719D5",
+  "overrides": {
+    "35C6AA62-F315-4328-98E6-0FC96808AB94": {
+      "symbolID": "FD3987D4-8971-4637-845D-7957EC2D83AC"
+    },
+    "63C8B1F5-FD08-467F-9E69-2DD18F76FC7C": {
+      "symbolID": "18AB1082-EA16-4631-9953-91502BFB10BE"
+    },
+    "B10C28F1-04EF-49AE-B959-E0C39610FF2B": "PVC",
+    "F392DB00-9ABB-488C-9A50-A0905A7998CB": {
+      "symbolID": "BE07211B-704D-414A-9B8B-7D8748D236C4"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "677E60B1-87B5-44D5-9503-B61822C06B1A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

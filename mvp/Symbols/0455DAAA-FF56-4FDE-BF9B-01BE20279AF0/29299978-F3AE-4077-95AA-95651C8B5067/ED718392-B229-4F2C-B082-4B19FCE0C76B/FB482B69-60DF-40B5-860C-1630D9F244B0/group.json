@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "FB482B69-60DF-40B5-860C-1630D9F244B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 28,
+    "x": 57.29666500746637,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5709A60F-4007-4C0F-A6B3-AFEFA23BD9C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B5F6DA4-5D1C-4D6D-8E05-4F2C291246AC"
+    }
+  ],
+  "name": "tri-angel",
+  "nameIsFixed": true,
+  "originalObjectID": "FB482B69-60DF-40B5-860C-1630D9F244B0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.999999523162842,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

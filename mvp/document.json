@@ -3,6 +3,48 @@
   "assets": {
     "_class": "assetCollection",
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2902374565601349,
+        "green": 0.2901752889156342,
+        "red": 0.290221631526947
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.886238694190979,
+        "green": 0.5645518898963928,
+        "red": 0.288655698299408
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1385422945022583,
+        "green": 0.6503673195838928,
+        "red": 0.9617109894752502
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9686274509803922,
+        "red": 0.9686274509803922
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3098039215686274,
+        "green": 0.3254901960784314,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588235294118,
+        "green": 0.4588235294117643,
+        "red": 0.007843137254901902
+      }
     ],
     "gradients": [
     ],
@@ -14,7 +56,7 @@
     "images": [
     ]
   },
-  "do_objectID": "b56b6290-9577-11e7-9613-8d59c67c3042",
+  "do_objectID": "0DCAD7AC-2A15-4B5C-8404-D3CF29A262A1",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -25,11 +67,12 @@
     ]
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":11821879,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":true}"
     }
   }
 }

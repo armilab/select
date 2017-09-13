@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2732D5D1-3B6B-4D3E-9B65-EDB37FCC15E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 240,
+    "x": 254,
+    "y": 1031
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 67,
+  "masterInfluenceEdgeMinYPadding": 1530,
+  "name": "product_detail",
+  "nameIsFixed": false,
+  "originalObjectID": "8429F6AC-7B00-4E9C-AA75-483CCD245E16",
+  "overrides": {
+    "446A13B7-4721-455F-BD19-2B8C8A02E051": {
+      "1636B22A-461F-4241-A739-F9B9B4FCDD5E": {
+        "680477F4-E0CC-468B-8F2A-1D6DA57B6039": "$1 ~$2",
+        "B152ED1D-8A6C-44EF-B44B-E8EE050234F1": "A/B"
+      }
+    },
+    "566B19F6-EFD7-4A69-B766-24CCC25B8397": {
+      "symbolID": "6982A166-B252-4CCA-AC03-A3309C21BDC0"
+    },
+    "7D672DB3-1C3C-472E-90A1-F9B5F196EBB6": {
+      "239CAD48-B440-4DAE-8034-DC51F3F842B1": {
+        "symbolID": "6982A166-B252-4CCA-AC03-A3309C21BDC0"
+      },
+      "95AAFF15-5381-48C4-B638-74A0ECEF3AB7": {
+        "1F21045E-2B47-4D60-BEBC-451EF1024BE0": {
+          "symbolID": "AB974927-D565-472C-BBC0-6981F0462FE5"
+        },
+        "4F59F5BE-E116-45D7-9706-C6DFBFD30AD8": "Domestic Film",
+        "53AF24C1-81D8-4214-8DBC-A4D398E47F8B": "Imported Film & Hardwood Core                Good for 5 pours",
+        "FD1C9A5F-9B9E-4BA1-810D-60597856789F": "$17.01 ~ $21.98"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B52443F5-58AA-4373-8915-DDB9766F22E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -34,7 +34,7 @@
   ],
   "name": "Rectangle",
   "nameIsFixed": false,
-  "originalObjectID": "B9F29A93-7390-42E9-A5EE-797E7600D989",
+  "originalObjectID": "CE5F8E39-9001-4247-BE2D-2C97CBA764D2",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.85,
-          "green": 0.85,
-          "red": 0.85
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "fillType": 0,
         "isEnabled": true,

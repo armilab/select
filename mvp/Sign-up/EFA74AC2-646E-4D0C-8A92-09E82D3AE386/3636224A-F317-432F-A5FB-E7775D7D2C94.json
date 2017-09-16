@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkhLTlJaXmJlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA15SZXNldCBQYXNzd29yZNMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIjxadAzSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDgAAAAAAABbUm9ib3RvLUJvbGTSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctU/QApBQkNERUZGWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAAQAoAUgBKAEtISCklKoIAT0jQ1TE1XTlNBcnJheaJMOdI0NU9QXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjT1E5XxAQTlNQYXJhZ3JhcGhTdHlsZdRTVFUKVldYWVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECgwLjA2Mjc0NTA5ODA0IDAuMTk2MDc4NDMxNCAwLjMzMzMzMzMzMzMAEAGAFoAY0lsKXF1UTlNJRBABgBfSNDVfYFxOU0NvbG9yU3BhY2WiYTlcTlNDb2xvclNwYWNl0jQ1Y2RXTlNDb2xvcqJjOdI0NThmojg50jQ1aGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiajlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAlACbAKMArgCzALUAtwC5ALsAwADCAMQAxgDIAMoA0QDzAQYBDgETARgBNQE3ATkBQAFDAUUBRwFKAUwBTgFQAWYBfAGFAZEBlgGhAaoBwAHEAdEB2gHfAfIB9QIIAhMCHgIqAjcCQwJFAkcCSQJLAk0CUgJTAlUCWgJiAmUCagKEAogCmwKkAqoCtwLMAvcC+QL7Av0DAgMHAwkDCwMQAx0DIAMtAzIDOgM9A0IDRQNKA18DYgN3A4kDjAORAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAAA5M="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "3636224A-F317-432F-A5FB-E7775D7D2C94",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 226.5896272955025,
+    "x": 270.7051863522488,
+    "y": 360
+  },
+  "glyphBounds": "{{27, 6}, {173, 20}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Reset Password",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D33199EB-0F1F-4EDB-974D-635F2A19620E"
+  },
+  "textBehaviour": 1
+}

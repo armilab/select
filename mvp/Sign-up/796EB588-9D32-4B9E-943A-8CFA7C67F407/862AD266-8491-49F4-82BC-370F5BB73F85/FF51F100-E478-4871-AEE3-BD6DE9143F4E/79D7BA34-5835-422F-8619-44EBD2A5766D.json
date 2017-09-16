@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAiIyQlJicoKS01Njc4OUBESk1TV1tnam1xc1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QEENvbmZpcm0gcGFzc3dvcmTTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHhsggAqAC4ATgBWACoAYgBxWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV1OU1N0cm9rZUNvbG9yV05TQ29sb3JdTlNTdHJva2VXaWR0aF8QEE5TUGFyYWdyYXBoU3R5bGUjAAAAAAAAAADSCiorLF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgouMTSiLzCADYAOojIzgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABeUm9ib3RvLVJlZ3VsYXLSOjs8PVokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM8Pj9cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jo7QUJfEBBOU0ZvbnREZXNjcmlwdG9yokM/XxAQTlNGb250RGVzY3JpcHRvctNFRgpHSElVTlNSR0JcTlNDb2xvclNwYWNlTxAmMC41MDU4ODIzNTI5IDAuNTQxMTc2NDcwNiAwLjU2ODYyNzQ1MQAQAoAU0jo7S0xXTlNDb2xvcqJLP9RFRk4KT1BRSV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuODE2NTEyNTQyNSAwLjgxNjUxMjU0MjUgMC44MTY1MTI1NDI1ABABgBaAFNJUClVWVE5TSUQQAYAX0jo7WFlcTlNDb2xvclNwYWNlolo/XE5TQ29sb3JTcGFjZdcKXF1eX2BhYmNjZWVQZlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0XxASTlNXcml0aW5nRGlyZWN0aW9uW05TQWxpZ25tZW50gBuAGYAZI0A4AAAAAAAAEATSEgpoaaCAGtI6O2tsV05TQXJyYXmiaz/SOjtub18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo25wP18QEE5TUGFyYWdyYXBoU3R5bGXSOjs+cqI+P9I6O3R1XxASTlNBdHRyaWJ1dGVkU3RyaW5nonY/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Xl6VHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAJsAogCqALUAvAC+AMAAwgDEAMYAyADPANEA0wDVANcA2QDbAN0A5AEGARQBHAEqAT0BRgFLAWgBagFsAXMBdgF4AXoBfQF/AYEBgwGZAa8BuAHHAcwB1wHgAfYB+gIHAhACFQIoAisCPgJFAksCWAKBAoMChQKKApIClQKeArMC3QLfAuEC4wLoAu0C7wLxAvYDAwMGAxMDIgMtAzkDSwNdA3IDfgOAA4IDhAONA48DlAOVA5cDnAOkA6cDrAPGA8oD3QPiA+UD6gP/BAIEFwQpBCwEMQAAAAAAAAIBAAAAAAAAAHsAAAAAAAAAAAAAAAAAAAQz"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "79D7BA34-5835-422F-8619-44EBD2A5766D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 252.5744274809159,
+    "x": 10,
+    "y": 9
+  },
+  "glyphBounds": "{{0, 4}, {130, 17}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Confirm password",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5A46AC69-60BE-4594-9AE5-1634A1F4A0E3"
+  },
+  "textBehaviour": 1
+}

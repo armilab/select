@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1837,
+  "changeIdentifier": 1841,
   "do_objectID": "CC1DF543-41E5-40DD-84FC-7CD56824F4DA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   ],
   "name": "buttons/xs/button-success-xs",
   "nameIsFixed": true,
-  "originalObjectID": "0D039BC7-9336-423C-AE64-D524B45A8B02",
+  "originalObjectID": "CC1DF543-41E5-40DD-84FC-7CD56824F4DA",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

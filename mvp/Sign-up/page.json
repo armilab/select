@@ -34,6 +34,14 @@
   "layers": [
     {
       "class": "artboard",
+      "id": "EFA74AC2-646E-4D0C-8A92-09E82D3AE386"
+    },
+    {
+      "class": "artboard",
+      "id": "796EB588-9D32-4B9E-943A-8CFA7C67F407"
+    },
+    {
+      "class": "artboard",
       "id": "EA5543BC-D170-4E11-920C-166E59C5DA94"
     },
     {
@@ -60,6 +68,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

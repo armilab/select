@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "do_objectID": "A2576348-AAAC-4F3F-AF71-C4FABC8AEE9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1500,
+    "width": 768,
+    "x": 9816,
+    "y": -326
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DB3D902B-CEA8-478D-88B7-6C8545C079BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3130EEE-D28C-4BA2-BB71-12623B7D8248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D43CEA67-8203-486A-9DCA-A227AC7A5080"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59C2CD73-206C-4B76-A78D-625B9768E26C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5968A26-2B39-4F71-A96D-3A7A73E15B3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECD53AD7-5BFC-430B-A6B9-16890491DE84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E33959F-227B-4D5C-8219-202C7826F178"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFFA4DA8-4250-4D6D-B885-7CE3179BBCD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67E1F55F-592A-4EC7-8744-F2842BFB5B9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0800FCC9-E7C6-4DD5-B640-9A43B74C8F50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D0BED7E-D73B-49A9-BF40-ABE0DAC8789B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8845CC1-8EBC-460E-B75E-2539CD309651"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "115EED2F-28C7-41C4-83E4-96606534F041"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7C33FF8-FFD8-4983-A23D-5DB8C51C5030"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4047043-66FF-40D7-BA29-2BB3D9DA29F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "178472D9-685A-44E9-85C8-0F3F53C6631A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7AA8174C-1487-487B-99E9-DE4FEA130E7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73C39D6D-BE53-4C86-8EFB-41DFEB01B14D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "10CD04BE-87A0-4E12-AEDE-570CDA300B1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3D51EC2-8119-4297-96EF-98DBAA75A2C7"
+    },
+    {
+      "class": "group",
+      "id": "1AF03E71-072E-42A4-B2B0-FD7385495011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "376FBE10-5F17-4E88-A499-B04EE7F998E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "5E988789-403F-43A0-BC5C-157EC4AF7673"
+    },
+    {
+      "class": "bitmap",
+      "id": "198C4051-1FD6-4DC2-8F84-9CBDA646FF19"
+    },
+    {
+      "class": "text",
+      "id": "D20A89E0-B114-4A23-BA43-07D2F21058F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43D17C12-D5E1-427F-BDDD-B468C5759248"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A67276F4-26C2-40F8-A42E-3DFB6306C6A2"
+    }
+  ],
+  "name": "-6b-shopping-cart_edit",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

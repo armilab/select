@@ -6,6 +6,13 @@
       {
         "_class": "color",
         "alpha": 1,
+        "blue": 0.2,
+        "green": 0.2,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
         "blue": 0.2902374565601349,
         "green": 0.2901752889156342,
         "red": 0.290221631526947
@@ -67,7 +74,8 @@
     ]
   },
   "pages": [
-    "Page 1",
+    "Order",
+    "Sign-up",
     "Symbols"
   ],
   "userInfo": {

@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "do_objectID": "EA5543BC-D170-4E11-920C-166E59C5DA94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 768,
+    "x": 1925,
+    "y": -363
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5BFEB47A-662F-4CB8-9BAF-B0EC6EB592B0"
+    },
+    {
+      "class": "bitmap",
+      "id": "455F00F4-1123-4DE2-8812-4E9CDC983CB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F56A71EF-26C7-4B05-9B5C-EBA3DBD8238D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2170125-1BE8-4AC5-B48C-0C25248D0805"
+    },
+    {
+      "class": "text",
+      "id": "A65D21DD-946C-434B-B0B2-58824F4B3DDE"
+    },
+    {
+      "class": "bitmap",
+      "id": "2C39F90B-E2B2-4A3F-82BF-184D3BC5A432"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55B7AF45-4333-434E-B092-A258931697F4"
+    },
+    {
+      "class": "group",
+      "id": "92CC3A69-D2CD-4899-B765-71CE55E4DEBE"
+    },
+    {
+      "class": "text",
+      "id": "AAD71E31-C133-412A-A582-FAD54817ACFB"
+    },
+    {
+      "class": "group",
+      "id": "5C96BA29-208C-4D83-A96D-50EA89C1E200"
+    }
+  ],
+  "name": "3-forgot",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

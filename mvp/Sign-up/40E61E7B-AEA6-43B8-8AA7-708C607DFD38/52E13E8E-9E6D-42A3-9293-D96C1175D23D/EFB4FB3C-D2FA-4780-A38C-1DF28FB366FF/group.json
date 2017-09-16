@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "7334B75A-2851-4861-953C-AA486FB86E9C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "71F5D831-3FAB-4BF9-88AE-2CB729FE270B"
     }
   ],
   "name": "form-control",

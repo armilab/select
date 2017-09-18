@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 550,
+    "height": 620,
     "width": 360,
     "x": 204.0000000000001,
     "y": 202
@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 12,
   "masterInfluenceEdgeMinXPadding": 10,
   "masterInfluenceEdgeMinYPadding": 8,
-  "name": "card-normal",
+  "name": "card-raised",
   "nameIsFixed": false,
   "originalObjectID": "D4AF7F27-ED71-4CF0-BAC3-C6E459C39DEF",
   "resizingConstraint": 63,
@@ -47,5 +47,11 @@
     "startDecorationType": 0
   },
   "symbolID": "6073A71A-3CE7-4E74-8468-7ED92BFD75A4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiwvNTk9RUZHSElNUVldYWRlZ1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1VMb2dpbtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgBiAGV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JWTlNLZXJu1SMkCiUmJygpKipaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAABACgAuACYAJ0hIKLS6ggArSMDEyM1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiMjRYTlNPYmplY3TSMDE2N18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozY4NF8QEE5TUGFyYWdyYXBoU3R5bGXSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgo+QUSiP0CADoAPokJDgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDgAAAAAAABbUm9ib3RvLUJvbGTSMDFKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSkw0XE5TRGljdGlvbmFyedIwMU5PXxAQTlNGb250RGVzY3JpcHRvcqJQNF8QEE5TRm9udERlc2NyaXB0b3LUUlNUClVWV1hVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAoMC4wNjI3NDUwOTgwNCAwLjE5NjA3ODQzMTQgMC4zMzMzMzMzMzMzABABgBWAF9JaCltcVE5TSUQQAYAW0jAxXl9cTlNDb2xvclNwYWNlomA0XE5TQ29sb3JTcGFjZdIwMWJjV05TQ29sb3KiYjQiPFp0DNIwMUxmokw00jAxaGlfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiajRfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRbW5Ucm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUAiwCSAJoApQCqAKwArgCwALIAtwC5ALsAvQC/AMEA1AD2AP4BBQEQARsBJwE0AUABQgFEAUYBSAFKAU8BUAFSAVcBYgFrAXMBdgF/AYQBngGiAbUBugHXAdkB2wHiAeUB5wHpAewB7gHwAfICCAIeAicCMwI4Ak4CUgJfAmQCdwJ6Ao0ClgKcAqkCvgLpAusC7QLvAvQC+QL7Av0DAgMPAxIDHwMkAywDLwM0AzkDPANBA1YDWQNuA4ADgwOIAAAAAAAAAgEAAAAAAAAAbwAAAAAAAAAAAAAAAAAAA4o="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C4829ED2-EAEF-4A20-B230-01F7768AFA9B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 151.2287359968514,
+    "x": 308.3856320015743,
+    "y": 344
+  },
+  "glyphBounds": "{{47, 6}, {58, 25}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Login",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D33199EB-0F1F-4EDB-974D-635F2A19620E"
+  },
+  "textBehaviour": 1
+}

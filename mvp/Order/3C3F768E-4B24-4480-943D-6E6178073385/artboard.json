@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 768,
-    "x": 5726,
+    "x": 6544,
     "y": -326
   },
   "hasBackgroundColor": true,
@@ -39,7 +39,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -90,8 +90,16 @@
       "id": "776ACD57-A92A-4875-ADA8-E3C75E139308"
     },
     {
+      "class": "text",
+      "id": "6E09EA59-41EE-42A7-9346-4F88329724E7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C05292B9-1165-4440-BA2D-B55F2144AA66"
+    },
+    {
       "class": "symbolInstance",
-      "id": "E9A9E16F-1956-4D21-A827-E99C9C213FA9"
+      "id": "BD9F6A7A-44E6-4D9F-87D8-551CEEAE5613"
     }
   ],
   "name": "3b-product_exception",

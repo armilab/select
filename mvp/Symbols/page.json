@@ -475,6 +475,10 @@
     {
       "class": "bitmap",
       "id": "13F53EEE-7C5A-42BD-BD72-F6C5EDCB9188"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A58D31C9-7A02-4376-91FB-F375B738BDEA"
     }
   ],
   "name": "Symbols",

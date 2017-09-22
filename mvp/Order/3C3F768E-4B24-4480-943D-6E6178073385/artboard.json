@@ -82,14 +82,6 @@
       "id": "55147BDC-E948-4BA0-A6FA-DED8BEABDE32"
     },
     {
-      "class": "symbolInstance",
-      "id": "BECC0183-E5FC-48A7-ACDD-5EFA05CEA4A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "776ACD57-A92A-4875-ADA8-E3C75E139308"
-    },
-    {
       "class": "text",
       "id": "6E09EA59-41EE-42A7-9346-4F88329724E7"
     },
@@ -100,6 +92,14 @@
     {
       "class": "symbolInstance",
       "id": "BD9F6A7A-44E6-4D9F-87D8-551CEEAE5613"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BD6C56A-3CAA-4BAD-B575-AD07FEEAD4E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "881A0DD6-3580-452D-B73D-FEBEC228D5FC"
     }
   ],
   "name": "3b-product_exception",

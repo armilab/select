@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "60BC6E3F-0E90-487C-B1DC-B2E6E36C0379",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 123,
+    "x": 168,
+    "y": 351
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "stack-label",
+  "nameIsFixed": false,
+  "originalObjectID": "BECE75D3-1762-4245-93ED-8B3740BB0EA1",
+  "overrides": {
+    "5421C0B8-6200-4C8F-BEEF-DCD0E7D72429": "Price Range:",
+    "E46F3009-21C8-413D-B36D-FF39BC5B9E6B": "$6.44 - $21.84"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "52902605-7A0B-4291-877F-F46520222B75",
+  "verticalSpacing": 0
+}

@@ -37,12 +37,19 @@
   "name": "Category Name",
   "nameIsFixed": false,
   "originalObjectID": "B10C28F1-04EF-49AE-B959-E0C39610FF2B",
-  "resizingConstraint": 63,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "sharedObjectID": "6A027ED6-3DD4-46B3-973B-C4D88BA89DB1"
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

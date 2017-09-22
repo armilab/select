@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "808484D9-F516-48EA-9F04-BB32CA08F36C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33,
+    "width": 33,
+    "x": 620,
+    "y": 14
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2975b996353d5d1c60c12adb54f007e358ed4f67",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "receipt",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "originalObjectID": "03147B23-47B9-4A3E-A91A-B4E5FF27E0F9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "39CEA404-C264-4EAF-A01C-B1D9DE0ECBEF"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 33,
+            "enabled": 1,
+            "modelID": "constraint_53c2837f-a9b3-4896-aba6-834200f6502a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 33
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_502e6c1a-88cf-4c08-9226-1a0777f13e69",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

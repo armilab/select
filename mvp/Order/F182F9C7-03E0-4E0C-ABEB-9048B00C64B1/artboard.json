@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 3030,
     "width": 768,
     "x": 5726,
     "y": -326
@@ -88,6 +88,22 @@
     {
       "class": "symbolInstance",
       "id": "6515636B-74ED-404B-B50E-F7413BB33FBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44390BF4-CC4C-4680-B3B4-360AB6B77AAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8308914D-6C4E-4294-A3FE-271A4F5AF737"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF0F4EDE-B967-4332-A462-4AE1359878D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0619D917-91FA-4712-BD5B-A25215049EDF"
     }
   ],
   "name": "3b-product",

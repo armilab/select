@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4375,
+  "changeIdentifier": 4381,
   "do_objectID": "28874424-8FB9-4A42-AB83-0391F70719D5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -59,7 +59,7 @@
   "name": "row-category_quality",
   "nameIsFixed": true,
   "originalObjectID": "28874424-8FB9-4A42-AB83-0391F70719D5",
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

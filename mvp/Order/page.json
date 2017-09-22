@@ -66,6 +66,10 @@
     },
     {
       "class": "artboard",
+      "id": "C963791B-DB28-4C2F-8B28-E1164CF7B2BD"
+    },
+    {
+      "class": "artboard",
       "id": "EF860241-F8B3-4B33-B818-05B6929234A9"
     },
     {
@@ -99,6 +103,10 @@
     {
       "class": "text",
       "id": "A14B1AEE-B3FB-49F6-9E97-F7D9194A3250"
+    },
+    {
+      "class": "bitmap",
+      "id": "422A43AD-5BF7-4946-8B8C-F92C01ACAD14"
     }
   ],
   "name": "Order",

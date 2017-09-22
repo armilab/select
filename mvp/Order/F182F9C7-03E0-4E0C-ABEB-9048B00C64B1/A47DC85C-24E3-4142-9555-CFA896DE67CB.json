@@ -16,7 +16,7 @@
     "height": 450,
     "width": 768,
     "x": 0,
-    "y": 518
+    "y": 2580
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 21,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "row-category_quality",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 44473,
+  "changeIdentifier": 44511,
   "do_objectID": "672F06DB-E0F3-4D78-8379-F7EF6454CA16",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,27 +49,27 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8FEE3C47-4A27-4B94-A7F6-9006D345D1E4"
+      "id": "6086BFC0-1F12-4CA4-AC4F-CA5FD5550C77"
     },
     {
       "class": "symbolInstance",
-      "id": "58801380-E175-4562-BE45-58756F0E3717"
+      "id": "EFACFAAB-30B6-4884-90A4-6F324C356973"
     },
     {
       "class": "symbolInstance",
-      "id": "0F17D3AA-BBD1-4C80-B6E2-BC9F9F592027"
+      "id": "DC5C361E-3619-4BC5-BDB1-E8C5D42B8562"
     },
     {
       "class": "text",
-      "id": "1CFF2BB7-3220-4CED-8C8B-9A0DF1223949"
+      "id": "B8F6F3E4-1AC6-4983-A333-8B72CCB6A4D2"
     },
     {
       "class": "group",
-      "id": "CBE6D174-9E0D-4BC6-98ED-618B8FC89A05"
+      "id": "FB06FEBF-3982-4911-8CA7-C02C3DFC6C2E"
     },
     {
       "class": "shapeGroup",
-      "id": "CD44B95B-D333-4D0E-B4DA-0442E7370003"
+      "id": "3F129958-F928-4988-B8D9-F5B9E4784848"
     }
   ],
   "name": "row-product_detail",

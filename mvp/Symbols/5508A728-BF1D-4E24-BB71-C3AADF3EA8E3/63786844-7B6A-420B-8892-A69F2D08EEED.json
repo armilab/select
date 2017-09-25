@@ -31,7 +31,7 @@
   "name": "card-normal",
   "nameIsFixed": false,
   "originalObjectID": "EEA7AB7B-86C8-4DBE-8674-EBA1F09F1113",
-  "resizingConstraint": 31,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -42,5 +42,11 @@
     "startDecorationType": 0
   },
   "symbolID": "A5DBBEDC-0CF2-4D57-A5D4-063709DAB908",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

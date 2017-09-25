@@ -98,12 +98,28 @@
       "id": "8308914D-6C4E-4294-A3FE-271A4F5AF737"
     },
     {
+      "class": "group",
+      "id": "040A94C6-C295-4440-8DCD-1016C4815829"
+    },
+    {
       "class": "symbolInstance",
       "id": "CF0F4EDE-B967-4332-A462-4AE1359878D7"
     },
     {
+      "class": "text",
+      "id": "67E242C7-DD7C-470E-A5DF-C8C35B1257A9"
+    },
+    {
       "class": "symbolInstance",
       "id": "0619D917-91FA-4712-BD5B-A25215049EDF"
+    },
+    {
+      "class": "text",
+      "id": "4B315A35-EA1E-42EB-B1F5-CE22BB855955"
+    },
+    {
+      "class": "group",
+      "id": "29A62A54-9903-4DD5-984B-82EFD94FDC9E"
     }
   ],
   "name": "3b-product",

@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 470,
+    "height": 690,
     "width": 768,
     "x": 0,
     "y": 1449
@@ -31,7 +31,7 @@
   "name": "row-category_quality copy 2",
   "nameIsFixed": false,
   "overrides": {
-    "4A37833A-74DB-49B5-B741-12922357A577": "Also viewed by other customers",
+    "4A37833A-74DB-49B5-B741-12922357A577": "Quality Reference",
     "B10C28F1-04EF-49AE-B959-E0C39610FF2B": "Overview",
     "D26F13B1-748B-4AEA-B16E-B67B91B932F6": " "
   },

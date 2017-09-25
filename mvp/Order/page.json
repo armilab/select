@@ -103,6 +103,30 @@
     {
       "class": "bitmap",
       "id": "422A43AD-5BF7-4946-8B8C-F92C01ACAD14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62ECA056-023B-4458-9991-C6F1F78E40D5"
+    },
+    {
+      "class": "group",
+      "id": "58304A4B-F430-44DF-AD93-E684CC178874"
+    },
+    {
+      "class": "group",
+      "id": "50160BB9-FFCD-4E45-B58D-13B331713A55"
+    },
+    {
+      "class": "slice",
+      "id": "0A131EAB-6897-441E-8DF2-26FA73185DFD"
+    },
+    {
+      "class": "slice",
+      "id": "31CC0FFC-5159-475B-88E0-FE5D7F1C5E7C"
+    },
+    {
+      "class": "slice",
+      "id": "1A676EA8-0A66-4099-9092-55C0EE3ABF6B"
     }
   ],
   "name": "Order",

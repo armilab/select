@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "758429D2-F073-4D3C-8992-30BEB2760FF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 680,
+    "x": 44,
+    "y": 524
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "cart-container-row",
+  "nameIsFixed": true,
+  "originalObjectID": "FBA195E0-FD20-42A2-9619-B2C3CF34C1BC",
+  "overrides": {
+    "5A0C9366-6479-4AFD-8A9F-1BCC7E6B233C": {
+      "symbolID": "AB16FDB6-3C16-405F-A41A-1CFADDCDC246"
+    },
+    "7746D713-937C-44C6-B7E9-FFDD5EEB828E": "3 - PVC Construction",
+    "7FF1110A-F451-42BC-9797-907B3CB2DA93": "CONTAINER 1",
+    "D74A303A-64AB-4A25-A013-89406EA639DB": "Dec 10, 2017"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "80974CD5-CB1D-43D0-A4DA-D75A4FB78C4E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

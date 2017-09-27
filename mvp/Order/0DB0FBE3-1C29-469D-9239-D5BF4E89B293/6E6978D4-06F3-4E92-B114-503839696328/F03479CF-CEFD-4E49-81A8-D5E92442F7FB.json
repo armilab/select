@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F03479CF-CEFD-4E49-81A8-D5E92442F7FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 680,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "cart-item-line_danger",
+  "nameIsFixed": true,
+  "originalObjectID": "519E9086-E514-403F-8059-A22F125418C3",
+  "overrides": {
+    "08566540-01D9-462C-997F-D67080BB0B00": "12mm",
+    "3EA94B1C-DC82-4ACD-AA1E-DB059F05C425": "$27,234.00",
+    "796E58F2-325E-4932-A594-FFE2D0C7FACF": "bundles",
+    "87F69F59-FB0A-4F30-8A66-86B277510022": "$13.24",
+    "B15A5403-05D6-442A-8AEB-5D27EAE6AC97": "10,000 sheets",
+    "C77EDA66-5AE1-4A65-9E0E-27E9DCFE65C0": "18",
+    "DD401C55-4FF6-493D-8723-8C32F015C213": {
+      "59610EE5-9CB0-4673-9EE5-3AA1C5D9747F": {
+        "symbolID": ""
+      },
+      "symbolID": "2293C9D5-8568-4F72-BCB0-CC6C252C29CE"
+    },
+    "E99ED417-9A2F-4435-80C7-D1FA5D1DCECD": "Okume B/C"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C01123DE-BD7E-49C4-BB3A-67E0F29CC978",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

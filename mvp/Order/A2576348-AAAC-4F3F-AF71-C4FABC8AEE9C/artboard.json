@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1500,
     "width": 768,
-    "x": 10634,
+    "x": 8998,
     "y": -326
   },
   "hasBackgroundColor": true,
@@ -150,7 +150,7 @@
       "id": "A67276F4-26C2-40F8-A42E-3DFB6306C6A2"
     }
   ],
-  "name": "-6b-shopping-cart_edit",
+  "name": "6b-shopping-cart_edit",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

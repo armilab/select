@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 3030,
     "width": 768,
-    "x": 5726,
+    "x": 4908,
     "y": -326
   },
   "hasBackgroundColor": true,
@@ -94,6 +94,14 @@
       "id": "44390BF4-CC4C-4680-B3B4-360AB6B77AAD"
     },
     {
+      "class": "group",
+      "id": "DFB82EB3-A0FC-4F86-8715-9AFAA3185D4C"
+    },
+    {
+      "class": "text",
+      "id": "3E2DBA5E-1E9F-43FF-8E3E-54BE1BA2CE43"
+    },
+    {
       "class": "symbolInstance",
       "id": "8308914D-6C4E-4294-A3FE-271A4F5AF737"
     },
@@ -108,10 +116,6 @@
     {
       "class": "text",
       "id": "67E242C7-DD7C-470E-A5DF-C8C35B1257A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0619D917-91FA-4712-BD5B-A25215049EDF"
     },
     {
       "class": "text",

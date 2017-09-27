@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 548,
+  "changeIdentifier": 549,
   "do_objectID": "2298621D-EAEC-4AAF-A4C0-7088F48D1963",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2200
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "DataTable/Row/RowHover",
   "nameIsFixed": false,
+  "originalObjectID": "2298621D-EAEC-4AAF-A4C0-7088F48D1963",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

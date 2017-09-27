@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3439,
+  "changeIdentifier": 3479,
   "do_objectID": "519E9086-E514-403F-8059-A22F125418C3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,11 +53,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A7355309-B9FD-4BA1-95C9-399CB86D8E7F"
+      "id": "81E2A880-0DC8-438C-9EE4-E7446EFF5CCE"
     },
     {
       "class": "symbolInstance",
-      "id": "81E2A880-0DC8-438C-9EE4-E7446EFF5CCE"
+      "id": "721EF32D-3BFA-465F-8512-759FDDFADC6E"
     }
   ],
   "name": "cart-item-line_danger",

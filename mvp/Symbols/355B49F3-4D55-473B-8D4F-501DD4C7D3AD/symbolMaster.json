@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2,
+  "changeIdentifier": 3,
   "do_objectID": "355B49F3-4D55-473B-8D4F-501DD4C7D3AD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,7 @@
   ],
   "name": "Material/Light/Checkbox off",
   "nameIsFixed": false,
+  "originalObjectID": "355B49F3-4D55-473B-8D4F-501DD4C7D3AD",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

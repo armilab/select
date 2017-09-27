@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 550,
+  "changeIdentifier": 551,
   "do_objectID": "7D013C15-8387-4C79-A82E-960F63ACB612",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,7 @@
   ],
   "name": "DataTable/Row/Row",
   "nameIsFixed": false,
+  "originalObjectID": "7D013C15-8387-4C79-A82E-960F63ACB612",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

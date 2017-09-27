@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 768,
-    "x": 6544,
+    "x": 5726,
     "y": -326
   },
   "hasBackgroundColor": true,
@@ -86,10 +86,6 @@
       "id": "6E09EA59-41EE-42A7-9346-4F88329724E7"
     },
     {
-      "class": "shapeGroup",
-      "id": "C05292B9-1165-4440-BA2D-B55F2144AA66"
-    },
-    {
       "class": "symbolInstance",
       "id": "BD9F6A7A-44E6-4D9F-87D8-551CEEAE5613"
     },
@@ -100,6 +96,10 @@
     {
       "class": "symbolInstance",
       "id": "881A0DD6-3580-452D-B73D-FEBEC228D5FC"
+    },
+    {
+      "class": "group",
+      "id": "74C72237-9414-4B0D-91EA-EEEDFC1AF4FB"
     }
   ],
   "name": "3b-product_exception",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 202,
+  "changeIdentifier": 203,
   "do_objectID": "90E32624-CF4A-4588-B18D-FF05225D8559",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1373
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "DataTable/HeaderColumn",
   "nameIsFixed": false,
+  "originalObjectID": "90E32624-CF4A-4588-B18D-FF05225D8559",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

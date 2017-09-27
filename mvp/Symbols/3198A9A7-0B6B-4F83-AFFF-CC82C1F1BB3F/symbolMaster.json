@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 980,
+  "changeIdentifier": 990,
   "do_objectID": "3198A9A7-0B6B-4F83-AFFF-CC82C1F1BB3F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -70,7 +70,7 @@
   ],
   "name": "product-details",
   "nameIsFixed": false,
-  "originalObjectID": "B13BD4F3-81B8-4936-A143-3FC9EDBD8137",
+  "originalObjectID": "3198A9A7-0B6B-4F83-AFFF-CC82C1F1BB3F",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

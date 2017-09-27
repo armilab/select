@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 422,
+  "changeIdentifier": 438,
   "do_objectID": "B5A077CC-9FED-4617-BE6E-66279A89E800",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1598
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,7 @@
   ],
   "name": "DataTable/HeaderTable/with-ActionButton",
   "nameIsFixed": false,
+  "originalObjectID": "B5A077CC-9FED-4617-BE6E-66279A89E800",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

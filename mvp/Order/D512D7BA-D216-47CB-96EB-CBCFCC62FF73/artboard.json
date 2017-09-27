@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1500,
     "width": 768,
-    "x": 8180,
+    "x": 7362,
     "y": -326
   },
   "hasBackgroundColor": true,
@@ -108,6 +108,10 @@
     {
       "class": "symbolInstance",
       "id": "911AAA17-5182-4F39-81C1-281A6521CA55"
+    },
+    {
+      "class": "slice",
+      "id": "07359BB8-5594-43ED-AD07-DE797EDD970F"
     }
   ],
   "name": "5-landing_added-to-cart",

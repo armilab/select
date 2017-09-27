@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2892,
+  "changeIdentifier": 2899,
   "do_objectID": "A58D31C9-7A02-4376-91FB-F375B738BDEA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,7 +54,7 @@
   ],
   "name": "button-default-xs-combo",
   "nameIsFixed": true,
-  "originalObjectID": "0D039BC7-9336-423C-AE64-D524B45A8B02",
+  "originalObjectID": "A58D31C9-7A02-4376-91FB-F375B738BDEA",
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

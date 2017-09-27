@@ -32,11 +32,11 @@
   "nameIsFixed": false,
   "originalObjectID": "0455DAAA-FF56-4FDE-BF9B-01BE20279AF0",
   "overrides": {
-    "0DCD33F7-E79E-48E4-A2F5-9C6ADB42A689": "9mm",
+    "0DCD33F7-E79E-48E4-A2F5-9C6ADB42A689": "18mm",
     "18856A03-F60D-4E39-A125-7134EEDEF710": "(112)",
-    "202530C9-D1E0-4BBF-B757-98A1C0F2BD95": "17",
+    "202530C9-D1E0-4BBF-B757-98A1C0F2BD95": "3",
     "934B7D58-259C-4954-BA2F-42EBE6207634": "Bundle",
-    "BEC92471-D52B-44BB-AC22-82736749034D": "$10.50"
+    "BEC92471-D52B-44BB-AC22-82736749034D": "$23.24"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,26 +53,6 @@
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
       }
-    },
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 7,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "F182F9C7-03E0-4E0C-ABEB-9048B00C64B1",
-      "transition": 0
     }
   },
   "verticalSpacing": 0
